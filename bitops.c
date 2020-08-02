@@ -8,9 +8,6 @@
  * Semester: COP4338 - Spring 2021
  * Author Megan Jane Thompson
  *
- * I affirm that the revisions of this program is entirely
- * my own work and none of it is the work of any other person.
- *
  * This program takes in a user's decimal value, converts it
  * to binary, alters a specified index of the binary string,
  * and returns the new decimal number.
